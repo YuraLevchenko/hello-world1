@@ -1,2 +1,3 @@
 # hello-world1
-first worc in gitHub
+first work in gitHub
+hello! my namr is Yura, i live in Ukrane.
