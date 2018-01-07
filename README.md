@@ -1,2 +1,3 @@
 # hello-world1
-first worc in gitHub
+first work in gitHub
+hi! my naame yura, i live in Ukrane.
